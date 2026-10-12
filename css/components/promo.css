@@ -38,6 +38,8 @@
     align-items: flex-start;
     gap: var(--space-6);
     text-align: left;
+    padding-inline-start: 19.27%;
+    }
   }
 
   .promo__title {
@@ -81,9 +83,15 @@
     margin-inline-start: -12px;
   }
 
-  @media (min-width: 1024px) {
-    .promo__content {
-      padding-inline-start: 19.27%;
+  @media (max-width: 1600px) {
+    .promo__content{
+      display: flex;
+      align-items: center;
+      padding-inline-start: 0%;
+    }
+
+    .promo__title {
+      text-align: center;
     }
   }
 
@@ -99,4 +107,4 @@
       background-color: var(--color-maroon);
     }
   }
-}
+
