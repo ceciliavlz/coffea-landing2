@@ -16,6 +16,12 @@
     height: 100%;
   }
 
+  .promo__image picture{
+    display: block;
+    width: 100%;
+    height: 100%;
+  }
+
   .promo__image img {
     display: block;
     width: 100%;
@@ -40,7 +46,6 @@
     gap: var(--space-6);
     text-align: left;
     padding-inline-start: 19.27%;
-    }
   }
 
   .promo__title {
@@ -108,4 +113,5 @@
       background-color: var(--color-maroon);
     }
   }
+}
 
