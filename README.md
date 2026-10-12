@@ -56,5 +56,9 @@ py -m http.server 8000
 
 Luego abrir [http://localhost:8000](http://localhost:8000) en el navegador. Para detener el servidor, presionar `Ctrl+C` en la terminal.
 
+## Performance, Accessibility, Best Practices, SEO mediante Lighthouse
+Como es requisito para termiado el sitio, se adjunta la demostración de las metricas con Lighthouse
+![metricas lighthouse](lighthouse.png)
+
 
 
