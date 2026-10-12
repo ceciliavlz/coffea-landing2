@@ -7,6 +7,8 @@
 
 Landing page para Coffea, una cafetería ficticia. Presenta sus productos y la identidad visual de la marca mediante un diseño adaptable a distintos tamaños de pantalla.
 
+### Link de deploy mediante Netlify: https://coffea-landing-ux.netlify.app/
+
 ## Secciones
 
 - Presentación y categorías
