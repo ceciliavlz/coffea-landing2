@@ -31,7 +31,7 @@
     gap: var(--space-6);
   }
 
-  @media (min-width: 1024px) {
+  @media (min-width: 1400px) {
     .testimonials__list {
       flex-wrap: nowrap;
       justify-content: space-between;
