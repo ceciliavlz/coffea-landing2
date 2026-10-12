@@ -17,6 +17,10 @@
     border-radius: var(--radius-img);
   }
 
+  .product-card__media picture {
+    display: block;
+  }
+
   .product-card__image {
     width: 100%;
     aspect-ratio: 334 / 364;

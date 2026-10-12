@@ -63,6 +63,12 @@
     gap: 0.75rem;
   }
 
+  .testimonial-card__avatar-wrap {
+    flex: 0 0 var(--circle-md);
+    width: var(--circle-md);
+    height: var(--circle-md);
+  }
+
   .testimonial-card__avatar {
     flex-shrink: 0;
     width: var(--circle-md);
