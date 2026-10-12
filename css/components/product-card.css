@@ -90,6 +90,10 @@
     color: var(--color-espresso);
   }
 
+  #dessert .product-card__title {
+    min-height: 2.2em;
+  }
+
   .product-card__description {
     font-family: var(--font-body);
     font-size: var(--fs-lg);
